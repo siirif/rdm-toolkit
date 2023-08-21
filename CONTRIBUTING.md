@@ -1,24 +1,21 @@
----
-title: How to contribute to the RDM toolkit website
-sidebar: contribute
-permalink: how_to_contribute.html
-toc: false
-summary: Here you'll find an overview of the ways of contributing to this website. Depending on your chosen way, please follow the links on the left, where you'll find step-by-step instructions.  
----
+# Contributing to the ELIXIR RDMkit
 
+Thank you very much for taking the time to contribute! 
 
-## Ways of contributing 
+## Code of Conduct 
 
-We accept contributions in two ways sketched below, through GitHub or through Google Docs.
- 
-{% include image.html file="howto_contribute_overview.svg" alt="How to contribute overview" %}
+This project is governed by a [code of conduct](https://github.com/elixir-europe/rdmkit/blob/master/CODE_OF_CONDUCT.md). By participating you are expected to respect this code. You can report inappropriate behaviour to rdm-coc@elixir-europe.org. 
 
-* **Github way:** We use GitHub to develop the RDM toolkit website. GitHub allows us to accept and coordinate contributions under an open authoring and review process. Therefore, this is our preferred way of accepting contributions. To begin with, you'll need a personal GitHub account, which you can create [here](https://github.com/join).   
-* **Google Doc way:** Alternatively, we provide Google Doc templates. This approach requires e-mail communication with our editors, who will be responsible for transferring the content to our git repository on your behalf.
+## How to contribute 
 
-## Contributor responsibilities
+You can create new pages or report errors or typos in two ways:
+ - Use the GitHub web interface ([How to contribute](https://rdmkit.elixir-europe.org/how_to_contribute))
+ - Send a text file with your suggested changes to the editors (rdm-editors@elixir-europe.org). 
 
-Regardless of your chosen way of contributing, when writing content for this website keep in mind the following:
+### Reporting a bug or a typo 
 
-* For the sake of consistency please follow our style-guide when writing.
-* We give great importance to authorship credit. If others were involved in your contribution, by writing-up or by providing resources such as diagrams/links please make sure they are acknowledged in the authors section of your page.
+Bugs or remarks are tracked as GitHub issues. You can create an issue and choose the appropriate template to fill in. 
+
+### Adding a new page or changing an existing page
+
+See our [How to contribute page](https://rdmkit.elixir-europe.org/how_to_contribute).
